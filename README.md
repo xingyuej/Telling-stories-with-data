@@ -32,7 +32,8 @@ The first bar chart gives a comparison between countries in a fixed year. The fi
 This graph is from the Pew Center’s 2018 American Social Trend Dataset. It’s also a part of the report, “Women and Leadership 2018.” The report claims that although Americans say they would like to see more women in top leadership positions, men still have an easier path both in political offices and large business companies. Female/Male and Republicans/Democrats also have widely different attitude towards the female leadership. I chose the graph because it has a very clear message: to show the comparison between F/M and Rep/Dem. Also, it includes two sub groups at one time. The report argues that the F/M gaps persist within parties. How to revise the basic bar chart with two related comparisons will be the focus of my assignment.
 
 # Wireframe
-
+![](fewer.jpeg) 
+![](discrimination.jpeg)
 
 # Feedback and Reflection
 I selected two friends that major in liberal arts. I suppose if a reader without a statistics background can easily understand the visualization, the message will be better conveyed to the general public. Friend 1 is male and Friend 2 is female. 
@@ -55,10 +56,7 @@ My reflection:
   - Keep the “fewer group”. I will keep the "fewer" attitude group. The raw data of "gender discrimination" doesn't suggest a wide gap (as discussed in critique), and readers get similar messages from "fewer group" and "gender discrimination". 
 
 # Final Solution
-<div class="flourish-embed flourish-election" data-src="visualisation/4385218"><script src=“https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-
+<div class="flourish-embed flourish-election" data-src="visualisation/4385218"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 
 
