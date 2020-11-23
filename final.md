@@ -17,15 +17,18 @@ A: The mask usage change since the covid. B. Policies changes regarding encourag
              
 # Sketch
 # Line charts-death rates
+![](predicted death.jpeg)
+![](198countries.jpeg)
 
 # Scientific findings: Droplets blocked by the mask
+![](droplets.jpeg)
 
 # Mask usage by different education levels. Top reasons for not wearing masks.
+![](education.jpeg)
+![](reason.jpeg)
 
 # Mask usage increase by areas 
-
-
-
+![](map.jpeg)
 
 
 # Data
