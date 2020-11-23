@@ -17,7 +17,7 @@ A: The mask usage change since the covid. B. Policies changes regarding encourag
              
 # Sketch
 # Line charts-death rates
-![](predicted death.jpeg)
+![](predicted.jpeg)
 ![](198countries.jpeg)
 
 # Scientific findings: Droplets blocked by the mask
