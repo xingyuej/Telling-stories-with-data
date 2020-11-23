@@ -14,15 +14,24 @@
 
 # Data
 New York Times. "Mask Usage By County/Around World". https://github.com/nytimes/covid-19-data/tree/master/mask-use 
+
 Data World. @akash.kaul."COVID-19 Patient Survey May 2020". https://data.world/informatics-edu/covid-19-patient-survey-may-2020/insights 
 IHME. "New IHME COVID-19 Model Projects Nearly 180,000 US Deaths". http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths
+
 USCF. Nina Bai. "Still Confused About Masks? Here’s the Science Behind How Face Masks Prevent Coronavirus". https://www.ucsf.edu/news/2020/06/417906/still-confused-about-masks-heres-science-behind-how-face-masks-prevent.
+
 Amy Mueller and Loretta Fernandez. "Assessment of Fabric Masks as Alternatives to Standard Surgical Masks in Terms of Particle Filtration Efficiency". https://files.fast.ai/papers/masks_lit_review.pdf. 
+
 Nature. Lynne Peeples. "Face masks: what the data say". https://www.nature.com/articles/d41586-020-02801-8.
+
 CDC."Monitoring and Evaluation Action Guide: Wearing Masks as a COVID-19 Community Mitigation Strategy". https://www.cdc.gov/coronavirus/2019-ncov/php/mask-evaluation.html.
+
 - How to use the data: Most data are in the format of csv. Some data need to be input manually.
+
 Benefits of Masks: Prediction of death rate if masks are weared by 95% of people. Comparison of death rate by countries combined with comparison of mask usage by countries. Experiment figures of facial masks and high speed droplets.
+
 Mask Usage and Attitudes: People with higher education level/ higher income tend to wear mask. Narrow down the groups of people who refuse to wear masks. The top reasons of people don't believe in masks. 
+
 Call to action, Masks on: Sentiment analysis of policy regarding masks. Free masks provision by percentage. Assessment of different fabrics for a standard mask. 
 
 
