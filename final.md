@@ -1,6 +1,6 @@
 # Final Project
 # Summary
--The project will discuss the mask wearing in the year of 2020 under the covid pandemic. 
+- The project will discuss the mask wearing in the year of 2020 under the covid pandemic. 
 
 
 # Sketch
