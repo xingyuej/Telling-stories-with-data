@@ -1,22 +1,39 @@
 # Final Project
 # Summary
 - The project will discuss the mask wearing in the year of 2020 under the covid pandemic. 
-- Story Arc: ① Mask helps! The presentation will start with the facial mask's benefits, especially for preventing the spread of COVID-19. A: Scientifc figures on how facial mask work. B: Predictions that deaths prevented by wearing masks in U.S. C: Comparison of case number and death rate between area where people tend to wear facial mask/ not wear facial mask. 
-             ② Who are using masks? U.S is not performing well compared to other countries in persuading people wearing facial masks. We need to further discuss which group of people refuse to wear masks and the reasons. A: Gender/Partisan/Ethnic gap in wearing masks. B: Mask usage by U.S. county/around the world. C.U.S. citizens' attitude towards facial masks. 
-             ③ We still need more people wear masks to overcome the pandemic (call to action). A: The mask usage change since the covid. B. Policies changes regarding encouraging people to wear masks and provide free masks. Mask usage is increasing since the outbreak of pandemic, but people should continue: 1. Tell friends and families to wear masks. 2. More free masks for the needed people. Also, this part could include how to pick a right facial mask. A comparison of different materials for masks can be added at the end if time is permitted. 
+- Story Arc: 
+
+① Mask helps! 
+
+The presentation will start with the facial mask's benefits, especially for preventing the spread of COVID-19. A: Scientifc figures on how facial mask work. B: Predictions that deaths prevented by wearing masks in U.S. C: Comparison of case number and death rate between area where people tend to wear facial mask/ not wear facial mask. 
+             
+ ② Who are using masks? 
+ 
+ U.S is not performing well compared to other countries in persuading people wearing facial masks. We need to further discuss which group of people refuse to wear masks and the reasons. A: Gender/Partisan/Ethnic gap in wearing masks. B: Mask usage by U.S. county/around the world. C.U.S. citizens' attitude towards facial masks. 
+
+③ We still need more people wear masks to overcome the pandemic (call to action).
+
+A: The mask usage change since the covid. B. Policies changes regarding encouraging people to wear masks and provide free masks. Mask usage is increasing since the outbreak of pandemic, but people should continue: 1. Tell friends and families to wear masks. Do people know how tow wear masks properly? 2. More free masks for the needed people. Also, this part could include how to pick a right facial mask. A comparison of different materials for masks can be added at the end if time is permitted. 
              
 # Sketch
+# Line charts-death rates
 
+# Scientific findings: Droplets blocked by the mask
+
+# Mask usage by different education levels. Top reasons for not wearing masks.
+
+# Mask usage increase by areas 
 
 
 
 
 
 # Data
-New York Times. "Mask Usage By County/Around World". https://github.com/nytimes/covid-19-data/tree/master/mask-use 
+New York Times. "Mask Usage By County/Around World". https://github.com/nytimes/covid-19-data/tree/master/mask-use. 
 
-Data World. @akash.kaul."COVID-19 Patient Survey May 2020". https://data.world/informatics-edu/covid-19-patient-survey-may-2020/insights 
-IHME. "New IHME COVID-19 Model Projects Nearly 180,000 US Deaths". http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths
+Data World. @akash.kaul."COVID-19 Patient Survey May 2020". https://data.world/informatics-edu/covid-19-patient-survey-may-2020/insights.
+
+IHME. "New IHME COVID-19 Model Projects Nearly 180,000 US Deaths". http://www.healthdata.org/news-release/new-ihme-covid-19-model-projects-nearly-180000-us-deaths.
 
 USCF. Nina Bai. "Still Confused About Masks? Here’s the Science Behind How Face Masks Prevent Coronavirus". https://www.ucsf.edu/news/2020/06/417906/still-confused-about-masks-heres-science-behind-how-face-masks-prevent.
 
@@ -25,6 +42,8 @@ Amy Mueller and Loretta Fernandez. "Assessment of Fabric Masks as Alternatives t
 Nature. Lynne Peeples. "Face masks: what the data say". https://www.nature.com/articles/d41586-020-02801-8.
 
 CDC."Monitoring and Evaluation Action Guide: Wearing Masks as a COVID-19 Community Mitigation Strategy". https://www.cdc.gov/coronavirus/2019-ncov/php/mask-evaluation.html.
+
+Pew Center. "Most Americans say they regularly wore a mask in stores in the past month; fewer see others doing it." Most Americans say they regularly wore a mask in stores in the past month; fewer see others doing it. https://www.pewresearch.org/fact-tank/2020/08/27/more-americans-say-they-are-regularly-wearing-masks-in-stores-and-other-businesses/.
 
 - How to use the data: Most data are in the format of csv. Some data need to be input manually.
 
