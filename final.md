@@ -1,4 +1,5 @@
 # Final Project
+# Part 1
 # Summary
 - The project will discuss the mask wearing in the year of 2020 under the covid pandemic. 
 - Story Arc: 
@@ -62,3 +63,20 @@ Call to action, Masks on: Sentiment analysis of policy regarding masks. Free mas
 - Step 2: Wireframe. Complete the wireframe with the assitance of Balsamiq. Follow the step of assignment 3&4 to ask for friends' advice and revise. Some data-viz will be revised from existing data-viz. The number of data-viz revised from existing reports will not exceed two. 
 - Step 3: Final Data-viz. The data visualization will be created by Tableau and Flourish. 
 - Step 4: The final presentation will be created by shorthand, combining graphs and analysis. 
+
+
+# Part 2
+# Wireframe and Storyboard
+link to shorthand page: 
+
+
+
+
+
+
+# User Research 
+research protocol
+
+
+
+
