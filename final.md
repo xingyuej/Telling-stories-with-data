@@ -71,15 +71,27 @@ Call to action, Masks on: Sentiment analysis of policy regarding masks. Free mas
 
 # Part 2
 # Wireframe and Storyboard
-link to shorthand page: 
-
-
-
-
-
+link to shorthand draft page: https://preview.shorthand.com/WyRpzGIctcHmsQBn
 
 # User Research 
-research protocol
+# Target audience
+- The targeted audience is the general public in United States, especially those who have doubts in wearing facial masks. A variety in gender and education level is preferred.
+- #1: U.S. citizen. CMU student. Female.
+- #2: U.S. citizen. Doorman of my apartment. Male.
+- #3: U.S. citizen. Faculty of CMU. Female. Statistic Major.
+# Goals and Quesetions
+- Data-Viz: Are the graphs clear and easy to understand. Where to change?
+- Emotional Appeal: How do you feel about wearing masks after the presentation? Will you wear masks more often?
+- Data accuracy: Is there anything misleading or confusing?
+- Improvement: What related information you feel it's necessary but not include in the presentation.
+
+# User Feedback
+- #1: The date of some graphs are confusing. For example, the forecasting model is for October 2020. It's outdated.
+- #2: The call to action is unclear. Try to explain behavioral economy terms with some simple exmaples.
+- #3: Font style and background images needs to be more consistent. Use more highlighted text to better deliver the message.
+- #4: Establish the connection between the reason of not usin mask and solution.
+- #5: May need a more eye-catching beginning. Consider getting rid of some of the scientific explainations at the start.
+
 
 
 
