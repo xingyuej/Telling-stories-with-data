@@ -49,6 +49,10 @@ CDC."Monitoring and Evaluation Action Guide: Wearing Masks as a COVID-19 Communi
 
 Pew Center. "Most Americans say they regularly wore a mask in stores in the past month; fewer see others doing it." Most Americans say they regularly wore a mask in stores in the past month; fewer see others doing it. https://www.pewresearch.org/fact-tank/2020/08/27/more-americans-say-they-are-regularly-wearing-masks-in-stores-and-other-businesses/.
 
+GALLUP. Facial mask demographics. https://news.gallup.com/poll/315590/americans-face-mask-usage-varies-greatly-demographics.aspx.
+
+Goldman Sachs. Mask and GDP. https://www.goldmansachs.com/insights/pages/face-masks-and-gdp.html. 
+
 - How to use the data: Most data are in the format of csv. Some data need to be input manually.
 
 Benefits of Masks: Prediction of death rate if masks are weared by 95% of people. Comparison of death rate by countries combined with comparison of mask usage by countries. Experiment figures of facial masks and high speed droplets.
