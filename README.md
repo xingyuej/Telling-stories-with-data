@@ -14,10 +14,10 @@ Here is all of my cool data visualizaton will go!
 link: https://xingyuej.github.io/Telling-stories-with-data/dataviz2.html
 
 # Assignment 3&4
-link:https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
+link: https://xingyuej.github.io/Telling-stories-with-data/ass34.html
 
 # Final Project
-- shorthand link: https://preview.shorthand.com/nlGkfeatYIcVCEFA
+- shorthand link: 
 - project link: https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
 
 
