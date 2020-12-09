@@ -17,8 +17,8 @@ link: https://xingyuej.github.io/Telling-stories-with-data/dataviz2.html
 link:https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
 
 # Final Project
-shorthand link: https://preview.shorthand.com/nlGkfeatYIcVCEFA
-project link: https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
+- shorthand link: https://preview.shorthand.com/nlGkfeatYIcVCEFA
+- project link: https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
 
 
   
