@@ -17,8 +17,8 @@ link: https://xingyuej.github.io/Telling-stories-with-data/dataviz2.html
 link: https://xingyuej.github.io/Telling-stories-with-data/ass34.html
 
 # Final Project
-- shorthand link: 
-- project link: https://github.com/xingyuej/Telling-stories-with-data/blob/main/ass34.md
+- shorthand link: https://carnegiemellon.shorthandstories.com/mask-wearing-in-the-u-s-/index.html
+- project link: https://xingyuej.github.io/Telling-stories-with-data/final%20project.html
 
 
   
