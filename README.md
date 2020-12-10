@@ -14,15 +14,15 @@ Here is all of my cool data visualizaton will go!
 link: https://xingyuej.github.io/Telling-stories-with-data/dataviz2.html
 
 A preview of assignment visualizations:
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/4283323"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/4285369"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Assignment 3&4
 link: https://xingyuej.github.io/Telling-stories-with-data/ass34.html
 
-A preview of assignment visualizations:
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+A preview of the assignment visualization:
+<div class="flourish-embed flourish-election" data-src="visualisation/4385218"><script src="https://public.flourish.studio/resources/embed.js"></script></div> 
 
 # Final Project
 - shorthand link: https://carnegiemellon.shorthandstories.com/mask-wearing-in-the-u-s-/index.html
